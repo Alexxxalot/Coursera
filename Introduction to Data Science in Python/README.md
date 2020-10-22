@@ -9,5 +9,6 @@ This course will introduce the learner to the basics of the python programming e
 
 <br>
 <br>
+
 ![Certification](https://github.com/Alexxxalot/Coursera/blob/main/Introduction%20to%20Data%20Science%20in%20Python/Certification/Certification.png?raw=true)
  
